@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of a devilish attempt to fire the town of Barnet in the county of Hartford, on Thursday the 16th of this instant October 1679 in a letter to a friend in London.</title>
+            <author>M. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37372</idno>
+            <idno type="STC">Wing D66</idno>
+            <idno type="STC">ESTC R7099</idno>
+            <idno type="EEBO-CITATION">13227496</idno>
+            <idno type="OCLC">ocm 13227496</idno>
+            <idno type="VID">98584</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37372)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98584)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 451:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of a devilish attempt to fire the town of Barnet in the county of Hartford, on Thursday the 16th of this instant October 1679 in a letter to a friend in London.</title>
+                  <author>M. D.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jonathon Robinson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: M. D.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Barnet (London, England) --  History.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98584:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <p>A TRUE RELATION OF A Deviliſh Attempt To Fire the Town of BARNET, In the County of HARTFORD, On <hi>Thurſday</hi> the 16th of this Inſtant <hi>October</hi> 1679.</p>
+            <p>In a Letter to a Friend in <hi>LONDON.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> 
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ed for <hi>Jonathan Robinſon,</hi> at the Golden Lion in St. <hi>Paul's</hi> Church-Yard, 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:98584:2"/>
+            <!-- PDF PAGE 21 -->
+            <pb n="3" facs="tcp:98584:2"/>
+            <!-- PDF PAGE 21 -->
+            <head>A True Relation of an Attempt, to Fire the Town of <hi>BARNET.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Cannot excuſe my ſelf of acquainting you with a very late attempt of Firing our Town of <hi>Barnet,</hi> which though but a little one was not beneath the Malice of our known Averſaries, as your great and famous City neither was, nor is above it. And though God hath fruſtrated their deſign, yet the Eviction of it with ſo much Evi<g ref="char:EOLhyphen"/>dence, will be of no ſmall uſe to ſtop the Mouths of thoſe, who decry the belief of all ſuch Attempts as ungrounded; the true Narrative is as follows. On Thurſday <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> 16 at Night, about one of the Clock, the Miſtreſs of one of the Houſes attemp<g ref="char:EOLhyphen"/>ted to be Fired, as ſhe lay in her Bed, after a little ſlumber, awakned, and ſuppoſed ſhe ſmelled a ſmoke ſo unuſual, as filled her with ſuſpicion of Fire to be in ſome place of the Houſe. Upon this occaſion, ſome of the Family were raiſed to make a ſearch; but all places being ſearched where ſuch a thing might be expected, nothing was found that could be the leaſt occaſion of ſuſpicion: But the ſmoke and the ſtench of it in<g ref="char:EOLhyphen"/>creaſing, confirmed the ſuſpition ſo, that they thought fit to awaken their next Neigh<g ref="char:EOLhyphen"/>bour, and oblige him to ſearch his Houſe, and eſpecially his Cellar, where he ſome<g ref="char:EOLhyphen"/>times dried Tobacco, and from whence they ſuppoſed the ſmell of the Fire came. But after the ſtricteſt Examination, nothing could be found that might give any ſatisfacti<g ref="char:EOLhyphen"/>on of the place where it was, though the ſymptoms of Fire ſo much increaſed, as made it beyond doubt that they were in danger. At length one going into a Shop next the Street, where never any Fire uſed to be made, obſerved that in a corner about two or three foot from the Street, the ſmell was hotteſt, and an apparent token that the Fire was not far off. Upon this, divers Neighbours being gathered together for their Aſ<g ref="char:EOLhyphen"/>ſiſtance, both in the ſearch, and if there ſhould be further occaſion, for the quenching of it; ſome of them brake down the Wall near to the Ground, which was of Wain<g ref="char:EOLhyphen"/>ſcot and other Boards. No ſooner was this done, but the Neſt was diſcovered, and there they found a Fire kindled ſo far, that it had burnt a conſiderable part of the Tim<g ref="char:EOLhyphen"/>ber next adjoyning, and within a few inches of the Deal-boards: But raking the place (which was as you ſhall hear ſo unuſual, and ſo unfit a place for Fire, except upon an induſtrious Plot for Miſchief) they found a conſiderable quantity of Combuſtible Matter amaſſed together, partly burnt to Aſhes, and partly unconſumed: But there having been much Water thrown upon it, they could not well diſcern what it was, but that the ground of it was Charcoal; and that all Circumſtances conſidered, it was beyond all diſpute diſpoſed there to fire the whole Town; which Circumſtances I ſhall exactly and faithfully relate, that not only a due Concluſion, but alſo a due improve<g ref="char:EOLhyphen"/>ment may be made of it.</p>
+            <p>There is in <hi>Barnet</hi> a row of Houſes, ſtriking down from the Church to the Market-place, which divides the two great Streets, and is ſo poſited, that being Fired, it would be hard for either ſide of the Town to eſcape it. In this Row, two of the moſt conſiderable Houſes were ſo disjoyned (having each of them their proper Walls) that betwixt the Walls there was a Vacancy, but no larger at the entrance than would admit with ſome difficulty of a Man's Arm to be thruſt in. Here it was (and as I ſaid before, about two or three foot from the Street) that the Fire, and the Combuſtible Matter was found, which was as far inward as an Arm could reach from the Street ſide: But from within the Houſes there was no Paſſage to it; nor had there been any Fire in the foreſaid Cellar, many Months before. Upon the report of this, many Gentle<g ref="char:EOLhyphen"/>men, and others, repaired to the place next Day to ſatisfie themſelves of the truth of the
+<pb n="4" facs="tcp:98584:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 22 -->
+Matter related: And upon the moſt ſtrict Examination of all particulars, there were not any (though moſt averſe from the belief of ſuch deſigned, and wicked Practices) but were fully convinced that it was an induſtrious Attempt to conſume the Town to Aſhes.</p>
+            <p>Sir, I ſhould not have given you the trouble of theſe Lines, but from the ſenſe of our duty to acknowledg the good Hand of God upon us, in ſo remarkable a Deli<g ref="char:EOLhyphen"/>verance: And although the ſucceſs of this Miſchievous Deſign might have rendred our Narrative more affecting, and deplorable: Yet as the watchful Eye of God over us to the preventing of the ſad effects, is to us the greater Mercy; ſo the wretched Contrivance, of <hi>more</hi> wretched Authors, is not unworthy of your <hi>ſpecial</hi> notice. You have in this Evidence ſufficient to poſſeſs you, that the ſame Spirits which produced thoſe many and dreadful Conflagrations, is not yet dead, nor aſleep; but attempting all manner of Ways to promote their Helliſh Intereſts, founded on the Ruines of all whom they are pleaſed to call Hereticks. And that all <hi>Proteſtants</hi> however diſtin<g ref="char:EOLhyphen"/>guiſhed, are equally obnoxious to their Cruelties, is no matter of diſpute with Men of a mean Intelligence. I cannot paſs by one circumſtance of our Danger without a Remark. The two Houſes betwixt which this Fire was kindled, were inhabited, the one of them by a ſtrict obſerver of the preſent Rites of the Church of <hi>England;</hi> the other by a Diſſenter: But both of them Perſons of a ſober Life, and a general good Reputation. But this is no matter of Conſideration with our common Adver<g ref="char:EOLhyphen"/>ſaries the <hi>Papiſts</hi> (upon whom we may confidently, without uncharitableneſs, charge the Fact) the Sacrifice of one, and t'other; yea, one and all is moſt grateful to them. It is rather my Wiſh than my Hope, that ſuch Minute Attempts upon ſuch inconſiderable places as <hi>Barnet,</hi> ſhould confine their Malice, or that the diſappoint<g ref="char:EOLhyphen"/>ment ſhould diſcourage them from far greater. It is high time for all to be awake<g ref="char:EOLhyphen"/>ned, and you Citizens of <hi>London</hi> eſpecially, who, as you are looked on as the greateſt <hi>Let</hi> to their Intereſt, ſo you are the greateſt Object of their Hatred and Conſpira<g ref="char:EOLhyphen"/>cies. But as hitherto, the Lord hath in a wonderful manner, in diſpite of all Powers and Policies (befriending them) detected, and prevented their Miſchievous De<g ref="char:EOLhyphen"/>vices: So let us, as our Duty and Intereſt, ſtir up our ſelves to lay hold on Him by the Prayer of Faith, and a holy Chriſtian Life, that he may yet be Omniſcient, and Almighty <hi>for us,</hi> and <hi>againſt</hi> all thoſe that riſe up againſt us. We are Beſotted, if ſuch Inſtances keep not alive the apprehenſions of our Enemies Guilt, and our own Dangers. Let us not be wanting to our ſelves, and God will be All-ſufficient.</p>
+            <p>There were three Perſons ſtrangers ſuſpected of this Fact, who came to a ſmall Inn in the Town requiring Lodging, but although they were promiſed Entertainment, they departed before Bed-time, and it is not known that they lodged that Night any where in the Town; but three ſuch like Perſons were ſeen ſculking not long before the Fire brake out, but not after. And for our parts we keep no Watch, to Examine and Apprehend ſuch Perſons, it may be we may now learn by our Danger, to be at the Charge of ſome better means for our Security. <hi>Farewell.</hi>
+            </p>
+            <closer>
+               <dateline>Barnet, <date>Octob. 20.1679.</date>
+               </dateline>
+               <signed>Yours, <hi>M. D.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
